@@ -5,5 +5,6 @@ Labs And Notes of Computer Systems: A Programmer's Perspective, 3/E(CS:APP3e) �
 
 ### 课程链接
 
-* [cmu](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)
-* [bilibili](https://www.bilibili.com/video/av12977597)
+* [cmu](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html)(无字幕)
+* [bilibili](https://www.bilibili.com/video/av12977597)(无字幕)
+* [bilibili](https://www.bilibili.com/video/av20304787)(英文字幕)
